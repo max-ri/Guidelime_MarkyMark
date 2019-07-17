@@ -1,0 +1,10 @@
+## Title: Guidelime_MarkyMark
+## Author: MarkyMark <Grizzly>, Borick of Arthas(EU)
+## Version: 0.001-Beta
+## Interface: 11302  # change to 80200 for BFA
+## Dependencies: Guidelime-master
+## Notes: MarkyMark's 1-60 guide
+
+
+Darkshore 12-16.lua
+Loch Modan 16-18.lua
