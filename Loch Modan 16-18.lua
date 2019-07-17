@@ -1,6 +1,7 @@
 local addonName, addon = ...
 Guidelime.registerGuide([[
 [DMarkyMark's 1-60 guide\\https://www.twitch.tv/darealmarkymark\\(best suited for a group of at least 2, if not 3+)]
+[GA Alliance]
 [N16-18Loch Modan]
 SAVE ALL GOOEY SPIDER LEGS & CRISP SPIDER MEAT[O]
 [S] Set Hearth in Thelsamar

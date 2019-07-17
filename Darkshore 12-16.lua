@@ -1,6 +1,7 @@
 local addonName, addon = ...
 Guidelime.registerGuide([[
 [DMarkyMark's 1-60 guide\\https://www.twitch.tv/darealmarkymark\\(best suited for a group of at least 2, if not 3+)]
+[GA Alliance]
 [N12-16Darkshore]
 [NX16-18Loch Modan]
 Jump off the boat when it is nearest the coast at Auberdine[OC]
