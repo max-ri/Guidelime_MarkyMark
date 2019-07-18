@@ -1,8 +1,9 @@
 local addonName, addon = ...
 Guidelime.registerGuide([[
-[DMarkyMark's 1-60 guide\\https://www.twitch.tv/darealmarkymark\\(best suited for a group of at least 2, if not 3+)]
+[D*MarkyMark*'s 1-60 guide\https://www.twitch.tv/darealmarkymark\(best suited for a group of at least 2, if not 3+)]
 [GA Alliance]
 [N16-18Loch Modan]
+[NX18-20Redridge]
 SAVE ALL GOOEY SPIDER LEGS & CRISP SPIDER MEAT[O]
 [S] Set Hearth in Thelsamar
 Run into the basement hut, accept [G37.24,47.38Loch Modan][QA436 Ironband's Excavation]
@@ -40,15 +41,15 @@ Grind east until you reach the Hunters Lodge. Turn in [G81.76,61.66][QT385 Croco
 Should be very close to 18 now or already 18. Grind until [XP18].
 Once 18, die and spirit rez at Thelsamar. [F] Fly to Ironforge.
 [T] Train class abilities, INCLUDING LOCKPICKING AND BUY THIEVES TOOLS. LEVEL & TRAIN COOKING TO 50
-Turn in [QT301 Report to Ironforge]
-Accept [QA2041 Speak with Shoni]
+Turn in [G74.64,11.74Ironforge][QT301 Report to Ironforge]
+Accept [G62.19,29.2Dun Morogh][QA2041 Speak with Shoni]
 Take the tram to Stormwind[OC]
-ERROR Turn in [QT2041 Speak with Shoni], skip [QS? next part]
-Turn in [QT1338 Stormpike's Order]
-Rogue only, accept [QA2281 Redridge Rendezvous][A Rogue]
+Turn in [G55.51,12.51Stormwind City][QT2041 Speak with Shoni], skip [QS2040 next part]
+Turn in [G58.09,16.53][QT1338 Stormpike's Order]
+Rogue only, accept [G75.76,60.36][QA2281 Redridge Rendezvous][A Rogue]
 Buy Stormwind Seasoning Herbs[G61,61]
 Accept [QA3765 The Corruption Abroad] in The Park[G21,56]
 From here, run directly to Goldshire[OC]
 [S] Set hearth in Goldshire[G64 ,61]
 Run east to Redridge
-]], GetAddOnMetadata(addonName, "title"))
+]],GetAddOnMetadata(addonName, "title"))

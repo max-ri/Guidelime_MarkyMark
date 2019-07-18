@@ -1,6 +1,6 @@
 local addonName, addon = ...
 Guidelime.registerGuide([[
-[DMarkyMark's 1-60 guide\\https://www.twitch.tv/darealmarkymark\\(best suited for a group of at least 2, if not 3+)]
+[D*MarkyMark*'s 1-60 guide\https://www.twitch.tv/darealmarkymark\(best suited for a group of at least 2, if not 3+)]
 [GA Alliance]
 [N12-16Darkshore]
 [NX16-18Loch Modan]
@@ -29,7 +29,7 @@ Head into the water north of Auberdine and kill Threshers for [G34.23,34.98][QC1
 Once Threshers are done, grind to the [QC4723 Beached Sea Creature] and loot it[G42,32]
 Run north a little bit and turn in [QT1001 Buzzbox 411], accept [QA1002 Buzzbox 323][G42,28]
 Grind north to the [QC4725 Beached Sea Turtle] being sure to kill all Moonstalkers on the way[G44,21]
-Grind on everything you see, paying special attention to Moonstalkers & [G48.73,29.78][QC2138,1 Rabid Thistle Bears][OC]
+Grind on everything you see, paying special attention to Moonstalkers & Rabid Thistle Bears[OC]
 Grind directly south to Bashal'Aran[OC]
 Turn in [QT954 Bashal'Aran Part 1], Accept [QA955 Part 2][G44,36]
 Do [G45.96,37.97][QC955 Bashal'Aran Part 2]
@@ -80,4 +80,4 @@ Turn in [G37.32,43.64][QT947 Cave Mushrooms], accept [QA948 Onu]
 Buy new weapons from the vendor
 Accept [QA2039 Find Bingles][G69,51]
 [F] Fly to Thelsamar
-]], GetAddOnMetadata(addonName, "title"))
+]],GetAddOnMetadata(addonName, "title"))
