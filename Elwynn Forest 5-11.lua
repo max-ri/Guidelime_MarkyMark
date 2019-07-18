@@ -6,7 +6,7 @@ Guidelime.registerGuide([[
 [NX11-12Dun Morogh/Loch Modan]
 Grind to the Stonefield Farm[OC]
 Accept [G34.49,84.25Elwynn Forest][QA85 Lost Necklace]
-Accept [G34.65,84.48][QA88 Princess Must Die!][O] if level 6 already[O]
+Accept [G34.65,84.48][QA88 Princess Must Die!][O] if level [XP6] already[O]
 Grind east to the Maclure Vineyard[OC]
 [V] Vendor, make sure to save all 'Chunk of Boar Meat'[G42.36, 89.38]
 Accept [G43.15,89.62][QA106 Young Lovers]
@@ -60,7 +60,7 @@ Grind to Saldean's Farm and turn in [G56.42,30.52Westfall][QT36 Westfall Stew], 
 Continue grinding west till Sentinel Hill, turn in [QT109 Report to Gryan Stoutmantle][G56,47 Westfall]
 Accept [G57,47.17][QA6181 A Swift Message][A Human] inside the tower, [G56.55,52.64][QT6181 turn it in][A Human] at the Gryphon Master & accept [QA6281 Continue to Stormwind][A Human]
 [H] Hearth to Goldshire
-Turn in [G42.11,65.93Elwynn Forest][QT176 Hogger], accept level 10 class quests
+Turn in [G42.11,65.93Elwynn Forest][QT176 Hogger], accept level [XP10] class quests
 Run north to Stormwind, turn in [G56.2,64.58Stormwind City][QT61 Shipment to Stormwind]
 [V] Buy weapon [T] skills & new weapons
 Turn in [G74.31,47.24][QT6281 Continue to Stormwind][A Human] at the Flightmaster, accept [QA6261 Dungar Longdrink][A Human]
