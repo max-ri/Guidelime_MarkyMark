@@ -13,7 +13,7 @@ Turn in [G64.9,66.66][QT436 Ironband's Excavation], accept [QA297 Gathering Idol
 Accept [G65.93,65.62][QA298 Excavation Progress Report]
 Kill the Troggs nearby for [G70.09,64.2][QC297 Gathering Idols] - look out for Magosh
 Turn in [G64.9,66.66][QT297 Gathering Idols]
-[V] Buy Solstice Robe and Wise Man's Belt from vendor [A Mage,Warlock,Priest]
+[V] Buy Solstice Robe and Wise Man's Belt from vendor [A Mage,Warlock,Priest,Paladin]
 Grind all mobs all the way to the Farstrider Lodge[G82,62]
 Accept [G83.47,65.45][QA257 A Hunter's Boast]
 Accept [G81.76,61.66][QA385 Crocolisk Hunting]
@@ -40,13 +40,14 @@ Grind along the lake until you reach Bingles. Turn in [G63.56,47.92][QT2038 Bing
 Grind east until you reach the Hunters Lodge. Turn in [G81.76,61.66][QT385 Crocolisk Hunting] & [G83.47,65.45][QT271 Vyrin's Revenge], accept [QA531 2nd part] and [G81.73,64.14][QT531 turn it in]
 Should be very close to 18 now or already 18. Grind until [XP18].
 Once 18, die and spirit rez at Thelsamar. [F] Fly to Ironforge.
-[T] Train class abilities, INCLUDING LOCKPICKING AND [V] BUY THIEVES TOOLS. LEVEL & TRAIN COOKING TO 50
+[T] Train class abilities, [A Rogue] INCLUDING LOCKPICKING AND [V] BUY THIEVES TOOLS
+Level and [T] train Cooking to 50
 Turn in [G74.64,11.74Ironforge][QT301 Report to Ironforge]
 Accept [G62.19,29.2Dun Morogh][QA2041 Speak with Shoni]
 Take the tram to Stormwind[OC]
 Turn in [G55.51,12.51Stormwind City][QT2041 Speak with Shoni], skip [QS2040 next part]
 Turn in [G58.09,16.53][QT1338 Stormpike's Order]
-Rogue only, accept [G75.76,60.36][QA2281 Redridge Rendezvous][A Rogue]
+Accept [G75.76,60.36][QA2281 Redridge Rendezvous][A Rogue] [A Rogue] 
 [V] Buy Stormwind Seasoning Herbs[G61,61]
 Accept [QA3765 The Corruption Abroad] in The Park[G21,56]
 From here, run directly to Goldshire[OC]
