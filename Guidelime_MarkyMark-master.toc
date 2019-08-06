@@ -8,3 +8,4 @@
 
 Darkshore 12-16.lua
 Loch Modan 16-18.lua
+Dun Morogh 1-5.lua
