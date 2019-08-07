@@ -1,6 +1,6 @@
 local addonName, addon = ...
 Guidelime.registerGuide([[
-[D*MarkyMark*'s 1-60 guide\https://www.twitch.tv/darealmarkymark\(best suited for a group of at least 2, if not 3+)]
+[D*MarkyMark*'s 1-60 guide\\https://www.twitch.tv/darealmarkymark\\(best suited for a group of at least 2, if not 3+)]
 [GA Dwarf,Gnome]
 [N1-5Dun Morogh]
 [NX5-12Dun Morogh/Loch Modan]
@@ -38,4 +38,4 @@ Turn in [G33.48,71.84Dun Morogh][QT282 Senir's Observations]
 Accept [G33.48,71.84Dun Morogh][QA420 Senir's Observations part 2]
 Accept [G33.85,72.23Dun Morogh][QA2160 Supplies to Tannok]
 Grind through the cave to Dun Morogh
-]],GetAddOnMetadata(addonName, 'title'))
+]],'MarkyMark')
