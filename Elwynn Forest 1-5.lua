@@ -41,5 +41,5 @@ Accept [G43.32,65.7Elwynn Forest][QA60 Kobold Candles]
 Turn in [G42.11,65.93Elwynn Forest][QT54 Report to Goldshire]
 Accept [G42.11,65.93Elwynn Forest][QA62 The Fargodeep Mine]
 Accept [G42.14,67.26Elwynn Forest][QA47 Gold Dust Exchange]
-[V Vendor] & purchase a Skinning Knife
+[V Vendor] & [V purchase] a Skinning Knife
 ]],'MarkyMark')

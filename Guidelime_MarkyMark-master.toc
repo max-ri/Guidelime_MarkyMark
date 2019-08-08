@@ -5,8 +5,13 @@
 ## Dependencies: Guidelime-master
 ## Notes: MarkyMark's 1-60 guide
 
-
+Teldrassil 1-5.lua
+Teldrassil 5-11.lua
+Dun Morogh 1-5.lua
+Dun Morogh_Loch Modan 5-12.lua
+Elwynn Forest 1-5.lua
+Elwynn Forest 5-11.lua
+Dun Morogh_Loch Modan 11-12.lua
 Darkshore 12-16.lua
 Loch Modan 16-18.lua
-Dun Morogh 1-5.lua
-Elwynn Forest 1-5.lua
+Redridge 18-20.lua
