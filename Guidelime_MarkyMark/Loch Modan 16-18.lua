@@ -1,0 +1,65 @@
+local addonName, addon = ...
+Guidelime.registerGuide([[
+[D*MarkyMark*'s 1-60 guide\\https://www.twitch.tv/darealmarkymark\\(best suited for a group of at least 2, if not 3+)]
+[GA Alliance]
+[N16-18Loch Modan]
+[NX18-20Redridge]
+Set [H]Hearth in Thelsamar
+Accept [G37.24,47.38Loch Modan][QA436]
+Do [G37.65,67.21Loch Modan][QC237 In Defense of the King's Lands Part 2]
+Turn in [G23.54,76.4Loch Modan][QT237 In Defense of the King's Lands Part 2]
+Accept [G23.47,74.51Loch Modan][QA263 In Defense of the King's Lands Part 3]
+Turn in [G64.9,66.66Loch Modan][QT436], accept [G64.9,66.66Loch Modan][QA297]
+Accept [G65.93,65.62Loch Modan][QA298]
+[V Buy] Solstice Robe and Wise Man's Belt from [V vendor] (Caster only)
+Do [G70.09,64.2Loch Modan][QC297]
+Turn in [G64.9,66.66Loch Modan][QT297]
+Accept [G83.47,65.46Loch Modan][QA257]
+Accept [G81.76,61.65Loch Modan][QA385]
+Do [G75.39,67.18Loch Modan][QC257]
+Turn in [G83.47,65.46Loch Modan][QT257], accept [G83.47,65.46Loch Modan][QA258]
+Do [G66.39,40.35Loch Modan][QC258]
+Turn in [G83.47,65.46Loch Modan][QT258], accept [G81.73,64.14Loch Modan][QA271]
+Turn in [QT2039 Find Bingles], accept [G63.56,47.92Loch Modan][QA2038]
+Do [G56.66,41.43Loch Modan][QC385]
+Do [G50.77,25.32Loch Modan][QC2038] & [G42.81,65.16Loch Modan][QC263 In Defense of the King's Lands Part 3]
+Accept [G46.05,13.61Loch Modan][QA250]
+Turn in [G56.05,13.24Loch Modan][QT250], accept [G56.05,13.24Loch Modan][QA199 Part 2] [G56,13Loch Modan]
+Turn in [G46.05,13.61Loch Modan][QT199 A Dark Threat Looms Part 2], accept [G46.05,13.61Loch Modan][QA161 A Dark Threat Looms Part 3]
+Hearth to [H Thelsamar]
+Accpet and turn in [G34.83,49.28Loch Modan][QT418] if you have the items for it from grinding around Loch Modan
+Turn in [G37.24,47.38Loch Modan][QT298], accept [G37.24,47.38Loch Modan][QA301]
+Turn in [G23.47,74.51Loch Modan][QT263 In Defense of the King's Lands Part 3]
+Accept [G23.23,73.68Loch Modan][QA217 In Defense of the King's Lands Part 4]
+Do [G34.7,90.6Loch Modan][QC217 In Defense of the King's Lands Part 4]
+Turn in [G23.23,73.68Loch Modan][QT217 In Defense of the King's Lands Part 4]
+Do [G37.92,63.38Loch Modan][QC271]
+Turn in [G63.56,47.92Loch Modan][QT2038]
+Turn in [G81.76,61.65Loch Modan][QT385] & [G83.47,65.46Loch Modan][QT271]
+Accept [G83.47,65.46Loch Modan][QA531 Vyrin's Revenge Part 2]
+Turn in [G81.73,64.14Loch Modan][QT531 Vyrin's Revenge Part 2]
+Use auto-unstuck, spirit res in Thelsamar
+Fly to [F Ironforge]
+Turn in [QT301 Report to Ironforge]
+Accept [QA2041 Speak with Shoni]
+Take the tram to Stormwind
+Accept [QA6661 Deeprun Rat Roundup]
+Do [QC6661 Deeprun Rat Roundup]
+Turn in [QT6661 Deeprun Rat Roundup], skip the [QS6662 next part]
+Turn in [QT2041 Speak with Shoni], accept [QA2040 Underground Assault]
+Turn in [QT1338 Stormpike's Order]
+Accept [QA167 Oh Brother...]
+Accept [QA168 Collecting Memories]
+Accept [G75.76,60.36Stormwind City][QA2281][A Rogue] [A Rogue]
+[T Train] class abilities, INCLUDING LOCKPICKING AND [V BUY] THIEVES TOOLS. LEVEL COOKING TO 50
+[V Buy] Stormwind Seasoning Herbs [G61,61Loch Modan]
+Accept [G21.4,55.79Stormwind City][QA3765] in The Park [G21,56Loch Modan]
+Fly to [F Westfall]
+Accept [G56.33,47.52Westfall][QA65 The Defias Brotherhood Part 1]
+Accept [G56.99,47.17Westfall][QA6181]
+Turn in [G56.55,52.64Westfall][QT6181], accept [G56.55,52.64Westfall][QA6281]
+Fly to [F Stormwind]
+Run to[OC] Goldshire
+Set your [H]Hearth in Goldshire
+Run to[OC] Redridge
+]],'MarkyMark')

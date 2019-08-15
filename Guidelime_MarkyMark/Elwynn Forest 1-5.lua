@@ -1,0 +1,40 @@
+local addonName, addon = ...
+Guidelime.registerGuide([[
+[D*MarkyMark*'s 1-60 guide\\https://www.twitch.tv/darealmarkymark\\(best suited for a group of at least 2, if not 3+)]
+[GA Alliance]
+[N1-5Elwynn Forest]
+[NX5-11Elwynn Forest]
+Accept [G48.17,42.94Elwynn Forest][QA783]
+Turn in [G48.92,41.61Elwynn Forest][QT783]
+Accept [G48.92,41.61Elwynn Forest][QA7]
+Accept [G48.17,42.94Elwynn Forest][QA5261] back outside
+Turn in [G48.94,40.15Elwynn Forest][QT5261]
+Accept [G48.94,40.15Elwynn Forest][QA33]
+Do [G49.23,36.26Elwynn Forest][QC7]
+Turn in [G48.92,41.61Elwynn Forest][QT7] & accept [G48.92,41.61Elwynn Forest][QA15]
+Accept [G48.17,42.94Elwynn Forest][QA18]
+Do [G47.84,42.41Elwynn Forest][QC33]
+Do [G54.28,46.95Elwynn Forest][QC18]
+Turn in [G48.17,42.94Elwynn Forest][QT18]
+Accept [G48.17,42.94Elwynn Forest][QA3903] & [G48.17,42.94Elwynn Forest][QA6]
+Turn in [G48.94,40.15Elwynn Forest][QT33]
+Turn in [G50.69,39.35Elwynn Forest][QT3903] & accept [G50.69,39.35Elwynn Forest][QA3904]
+Do [G53.92,48.94Elwynn Forest][QC3904] & [G57.52,48.25Elwynn Forest][QC6]
+Do [G48.86,34.61Elwynn Forest][QC15]
+Turn in [G50.69,39.35Elwynn Forest][QT3904] & accept [G50.69,39.35Elwynn Forest][QA3905]
+Turn in [G48.17,42.94Elwynn Forest][QT6]
+Turn in [G48.92,41.61Elwynn Forest][QT15] & accept [G48.92,41.61Elwynn Forest][QA21]
+Do [G48.78,28.49Elwynn Forest][QC21]
+[H]Hearth
+Turn in [G48.92,41.61Elwynn Forest][QT21]
+Accept [G48.92,41.61Elwynn Forest][QA54]
+Turn in [G49.47,41.59Elwynn Forest][QT3905]
+Accept [G45.56,47.74Elwynn Forest][QA2158]
+Turn in [G43.77,65.79Elwynn Forest][QT2158] inside the inn
+Set your Hearth to [H Goldshire]
+[T Train] First Aid upstairs
+Accept [G43.32,65.7Elwynn Forest][QA60]
+Turn in [G42.11,65.93Elwynn Forest][QT54]
+Accept [G42.11,65.93Elwynn Forest][QA62]
+Accept [G42.14,67.26Elwynn Forest][QA47]
+]],'MarkyMark')
