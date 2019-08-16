@@ -1,0 +1,6 @@
+enable-nolib-creation: no
+package-as: Guidelime_MarkyMark
+
+move-folders:
+   Guidelime_MarkyMark/Guidelime_MarkyMark : Guidelime_MarkyMark
+
