@@ -5,7 +5,7 @@ Guidelime.registerGuide([[
 [N1-5Dun Morogh]
 [NX5-12Dun Morogh/Loch Modan]
 Accept [G29.93,71.2Dun Morogh][QA179]
-Do [G28.27,74.57Dun Morogh][QC179]
+Do [G47.84,42.41Elwynn Forest][QC179]
 Turn in [G29.93,71.2Dun Morogh][QT179]
 Accept [G29.93,71.2Dun Morogh][QA233]
 Accept Class Quest

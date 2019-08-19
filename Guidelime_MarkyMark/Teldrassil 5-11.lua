@@ -36,10 +36,10 @@ Turn in [G56.14,61.71Teldrassil][QT933 Crown of the Earth Part 4], accept [G56.1
 Set your Hearth to [H Dolanaar] again
 Accept [G54.63,58.46Teldrassil][QA487]
 Do [G46.52,53.3Teldrassil][QC487]
-Turn in [QT922 Rellian Greenspyre], accept [QA923 Tumors]
+Turn in [G38.17,21.64Darnassus][QT922], accept [G38.17,21.64Darnassus][QA923]
 Accept [G36.65,85.93Darnassus][QA2518]
 Do [G44.52,39.09Teldrassil][QC923]
-Do [QC2518 Tears of the Moon]
+Do [G44.19,25.52Teldrassil][QC2518]
 Grind west[OC] to The Oracle Glade and use the 'Amethyst Phial' at the Moonwell
 Accept [G38.32,34.36Teldrassil][QA937]
 Do [G35.18,34.59Teldrassil][QC937]
@@ -49,7 +49,7 @@ Grind to the 'Strange Fronded Plant' and loot it to accept [G34.61,28.76Teldrass
 Turn in [G38.32,34.36Teldrassil][QT938] & [G38.32,34.36Teldrassil][QT937], accept [G38.32,34.36Teldrassil][QA940]
 Aggro mobs and die on purpose
 Spirit res at Darnassus
-Turn in [QT923 Tumors], accept [QA2498 Return to Denalan]
+Turn in [G38.17,21.64Darnassus][QT923], accept [G38.17,21.64Darnassus][QA2498]
 Turn in [G36.65,85.93Darnassus][QT2518], accept [G36.65,85.93Darnassus][QA2520]
 Use 'Sathrah's Sacrifice' at the fountain just below you, then turn [G36.65,85.93Darnassus][QT2520 it] in
 Hearth to [H Dolanaar]
@@ -64,11 +64,11 @@ Turn in [G60.46,56.29Teldrassil][QT489]
 Turn in [G55.57,56.95Teldrassil][QT2459]
 Turn in [G54.63,58.46Teldrassil][QT487]
 Accept [G70.68,45.38Darnassus][QA6344]
-Turn in [QT935 Crown of the Earth Part 6], accept [G34.81,9.26Darnassus][QA952]
+Turn in [G34.81,9.26Darnassus][QT935 Crown of the Earth Part 6], accept [G34.81,9.26Darnassus][QA952]
 Take the portal to Rut'theran Village
-Turn in [QT6344 Nessa Shadowsong] ,accept [QA6341 The Bounty of Teldrassil]
-Turn in [QT6341 The Bounty of Teldrassil], accept [QA6342 Flight to Auberdine]
+Turn in [G56.26,92.44Teldrassil][QT6344] ,accept [G56.26,92.44Teldrassil][QA6341]
+Turn in [G58.4,94.02Teldrassil][QT6341], accept [G58.4,94.02Teldrassil][QA6342]
 Fly to [F Auberdine]
 Turn in [G36.77,44.28Darkshore][QT6342], accept [G36.77,44.28Darkshore][QA6343]
-Be sure to turn in [QT6343 Return to Nessa] next time you head to Darnassus to [T train] new abilities
+Be sure to turn in [G56.26,92.44Teldrassil][QT6343] next time you head to Darnassus to [T train] new abilities
 ]],'MarkyMark')

@@ -11,8 +11,8 @@ Teldrassil 5-11.lua
 Dun Morogh 1-5.lua
 Dun Morogh/Loch Modan 5-12.lua
 Elwynn Forest 1-5.lua
-Elwynn Forest 5-11.lua
-Dun Morogh/Loch Modan 11-12.lua
+Elwynn Forest 5-10.lua
+Dun Morogh/Loch Modan 10-12.lua
 Darkshore 12-16.lua
 Loch Modan 16-18.lua
 Redridge 18-20.lua
@@ -21,3 +21,8 @@ Darkshore 21-22.lua
 Ashenvale 22-25.lua
 Wetlands 25-26.lua
 Redridge 26-27.lua
+Duskwood/Stockades 27-30.lua
+Ashenvale 29-30.lua
+Wetlands 30-31.lua
+Hillsbrad 31-32.lua
+1KNeedles_DWM_STV 32-34.lua

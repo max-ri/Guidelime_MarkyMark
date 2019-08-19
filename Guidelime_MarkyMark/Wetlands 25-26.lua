@@ -18,7 +18,7 @@ Accept [G8.31,58.53Wetlands][QA279]
 [S]Set Hearth to [H Menethil] Harbor
 [V Buy] a Flagon of Mead, accept [G10.89,59.67Wetlands][QA288] and turn [G10.89,59.67Wetlands][QT288 it] in
 Accept [G10.89,59.67Wetlands][QA289]
-Turn in [QT942 The Absent Minded Prospector Part 4], accept [QA943 Part 5]
+Turn in [G10.84,60.42Wetlands][QT942 The Absent Minded Prospector Part 4], accept [G10.84,60.42Wetlands][QA943 Part 5]
 Turn in [G11.8,57.99Wetlands][QT470]
 Accept [G10.09,56.89Wetlands][QA473]
 Turn in [G9.85,57.49Wetlands][QT473], accept [G9.85,57.49Wetlands][QA464]
@@ -29,7 +29,7 @@ Do [G35.67,33.21Wetlands][QC275 Blisters on the Land]
 Accept [G38.17,50.89Wetlands][QA294] [G38.2, 50.9Wetlands]
 Turn in [G38.9,52.34Wetlands][QT305 In Search of the Excavation Team], accept [G38.9,52.34Wetlands][QA306 Part 2]
 Accept [G38.81,52.39Wetlands][QA299]
-Loot '[QC943,2 Flagongut's Fossil]' inside the cave
+Loot '[G38.86,52.21Wetlands][QC943,2 Flagongut's Fossil]' inside the cave
 Do [G25.52,49.68Wetlands][QC294] outside of the site
 Turn in [G38.17,50.89Wetlands][QT294], accept [G38.17,50.89Wetlands][QA295 Part 2]
 Do [G33.95,48.05Wetlands][QC295 Ormer's Revenge Part 2] and [G35.25,44.5Wetlands][QC299]
@@ -40,7 +40,7 @@ Turn in [G38.17,50.89Wetlands][QT296 Ormer's Revenge Part 3]
 Do [G47.17,46.56Wetlands][QC464]
 Turn in [G56.37,40.39Wetlands][QT275 Blisters on the Land] [G56.4, 40.4Wetlands]
 Hearth to [H Menethil] Harbor
-Turn in [QT943 The Absent Minded Prospector Part 5]
+Turn in [G10.84,60.42Wetlands][QT943 The Absent Minded Prospector Part 5]
 Turn in [G10.89,59.67Wetlands][QT289], skip the [QS290 next part] for now
 Turn in [G8.31,58.53Wetlands][QT279], skip the [QS281 next part] for now
 Turn in [G9.85,57.49Wetlands][QT464], accept [G9.85,57.49Wetlands][QA465]

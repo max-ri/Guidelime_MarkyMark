@@ -64,6 +64,6 @@ Turn in [G37.31,43.64Darkshore][QT947], skip the [QS948 next part] for now
 Hearth to [H Ironforge]
 [T Train] new class abilities
 [V Buy] new weapons from the [V vendor]
-Accept [QA2039 Find Bingles] [G69,51Darkshore]
+Accept [G62.19,29.2Dun Morogh][QA2039] [G69,51Darkshore]
 Fly to [F Thelsamar]
 ]],'MarkyMark')

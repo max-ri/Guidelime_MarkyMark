@@ -5,8 +5,8 @@ Guidelime.registerGuide([[
 [N22-25Ashenvale]
 [NX25-26Wetlands]
 Do [G31.43,23.17Ashenvale][QC1010] [G32,22Ashenvale]
-Do [QC970 The Tower of Althalaxx Part 3] [G31,31Ashenvale]
-Turn in [QT970 The Tower of Althalaxx Part 4], accept [QA973 Part 5] [G26.2, 38.7Ashenvale]
+Do [G31.41,30.66Ashenvale][QC970 The Tower of Althalaxx Part 3] [G31,31Ashenvale]
+Turn in [G26.2,38.7Ashenvale][QT970 The Tower of Althalaxx Part 4], accept [G26.2,38.7Ashenvale][QA973 Part 5] [G26.2, 38.7Ashenvale]
 Turn in [G26.44,38.59Ashenvale][QT1010], accept [G26.44,38.59Ashenvale][QA1020] [G26.2, 38.7Ashenvale]
 Turn in [G20.3,42.33Ashenvale][QT991], accept [G20.3,42.33Ashenvale][QA1023 Part 2] [G20.4, 42Ashenvale]
 Do [G20.38,42.69Ashenvale][QC1023 Raene's Cleansing Part 2]
@@ -23,9 +23,9 @@ Turn in [G36.61,49.58Ashenvale][QT1023 Raene's Cleansing Part 2] & [G36.61,49.58
 Accept [G36.61,49.58Ashenvale][QA1024 Raene's Cleansing Part 3], accept [G36.61,49.58Ashenvale][QA1025]
 Set [H]hearth in Astranaar
 Turn in [G37.36,51.79Ashenvale][QT1020], accept [G37.36,51.79Ashenvale][QA1033]
-Grind south to Fire Scar Shrine, kill [QC973,1 Ilkrud Magthrull] for [QC973 The Tower of Althalaxx Part 5] [G23,62Ashenvale]
-Turn in [QT945 Therylune's Escape] [G22.6, 51.9Ashenvale]
-Turn in [QT973 The Tower of Althalaxx Part 5], accept [QA1140 Part 6]
+Grind south to Fire Scar Shrine, kill [G25.28,60.69Ashenvale][QC973,1 Ilkrud Magthrull] for [G25.28,60.69Ashenvale][QC973 The Tower of Althalaxx Part 5] [G23,62Ashenvale]
+Turn in [G22.64,51.92Ashenvale][QT945] [G22.6, 51.9Ashenvale]
+Turn in [G26.2,38.7Ashenvale][QT973 The Tower of Althalaxx Part 5], accept [G26.2,38.7Ashenvale][QA1140 Part 6]
 **ESCORT NEXT STEP**
 Accept [G26.21,38.88Ashenvale][QA976] (Escort)
 Do [QC976 Supplies to Auberdine]
@@ -42,13 +42,13 @@ Turn in [G49.8,67.2Ashenvale][QT1016]
 Grind southwest[OC] to Talondeep Path and run to the Stonetalon Mountains [G42,72Ashenvale]
 STONETALON QUESTS BELOW
 Accept [G58.99,62.6Stonetalon Mountains][QA1093] [G59, 62.6Ashenvale]
-Turn in [QT1070 On Guard in Stonetalon Part 1], accept [QA1085 Part 2] [G59.7, 67Ashenvale]
-Turn in [QT1085 On Guard in Stonetalon Part 2], accept [G59.52,67.15Stonetalon Mountains][QA1071] & [QA2931 Castpipe's Task] [G59.7, 67Ashenvale]
+Turn in [G59.9,66.85Stonetalon Mountains][QT1070 On Guard in Stonetalon Part 1], accept [G59.9,66.85Stonetalon Mountains][QA1085 Part 2] [G59.7, 67Ashenvale]
+Turn in [G59.52,67.15Stonetalon Mountains][QT1085 On Guard in Stonetalon Part 2], accept [G59.52,67.15Stonetalon Mountains][QA1071] & [G59.52,67.15Stonetalon Mountains][QA2931] [G59.7, 67Ashenvale]
 Do [G68.63,51.17Stonetalon Mountains][QC1093] & [G67.38,52.44Stonetalon Mountains][QC1071]
 Turn in [G58.99,62.6Stonetalon Mountains][QT1093]
 Turn in [G59.52,67.15Stonetalon Mountains][QT1071]
 Accept [G59.52,67.15Stonetalon Mountains][QA1072] & [G59.52,67.15Stonetalon Mountains][QA1075]
-Do [QC1134 Pridewings of Stonetalon]
+Do [G52.88,42.97Stonetalon Mountains][QC1134]
 Accept [G37.1,8.1Stonetalon Mountains][QA1057]
 Get the [P]FP
 Do [G32.67,65.04Stonetalon Mountains][QC1057] & [G35.15,62.42Stonetalon Mountains][QC1078] if you have it
@@ -66,14 +66,14 @@ Fly to [F Auberdine]
 Turn in [G39.37,43.48Darkshore][QT994]
 Take the boat to Darnassus
 Get the [P]FP
-Turn in [QT741 The Absent Minded Prospector Part 3], accept [QA942 Part 4]
+Turn in [G31.24,84.51Darnassus][QT741 The Absent Minded Prospector Part 3], accept [G31.24,84.51Darnassus][QA942 Part 4]
 Take the FP or boat to Auberdine and then take the boat to Wetlands
 Fly to [F Ironforge]
-Turn in [QT1072 An Old Colleague], skip the [QS1073 next part]
-If 'The Powers Below' dropped for you, accept [G41.91,77.3Darkshore][QA968] and turn [QT968 it] in
+Turn in [G72.08,51.88Ironforge][QT1072], skip the [QS1073 next part]
+If 'The Powers Below' dropped for you, accept [G41.91,77.3Darkshore][QA968] and turn [G50.83,5.62Ironforge][QT968 it] in
 [T Train] new abilities
 Take the tram to Stormwind
-Turn in [QT1075 A Scroll from Mauren] & [QT1078 Retrieval for Mauren] if you did it, skip the [QS1077 next part]
+Turn in [G43.09,80.39Stormwind City][QT1075] & [G43.09,80.39Stormwind City][QT1078] if you did it, skip the [QS1077 next part]
 Accept [G26.44,78.67Stormwind City][QA335]
 Fly to [F Loch] Modan
 Run north into Wetlands
