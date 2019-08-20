@@ -1,7 +1,7 @@
 
 ## Title: Guidelime_MarkyMark
 ## Author: MarkyMark <Grizzly>, Borick of Arthas(EU)
-## Version: 0.001-Beta
+## Version: v1.2
 ## Interface: 11302
 ## Dependencies: Guidelime
 ## Notes: MarkyMark's 1-60 guide
@@ -9,10 +9,10 @@
 Teldrassil 1-5.lua
 Teldrassil 5-11.lua
 Dun Morogh 1-5.lua
-Dun Morogh/Loch Modan 5-12.lua
+Dun Morogh_Loch Modan 5-12.lua
 Elwynn Forest 1-5.lua
 Elwynn Forest 5-10.lua
-Dun Morogh/Loch Modan 10-12.lua
+Dun Morogh_Loch Modan 10-12.lua
 Darkshore 12-16.lua
 Loch Modan 16-18.lua
 Redridge 18-20.lua
@@ -21,8 +21,31 @@ Darkshore 21-22.lua
 Ashenvale 22-25.lua
 Wetlands 25-26.lua
 Redridge 26-27.lua
-Duskwood/Stockades 27-30.lua
+Duskwood_Stockades 27-30.lua
 Ashenvale 29-30.lua
 Wetlands 30-31.lua
 Hillsbrad 31-32.lua
 1KNeedles_DWM_STV 32-34.lua
+Desolace 34-36.lua
+STV_SoS 36-38.lua
+Desolace 37-38.lua
+Arathi 38-39.lua
+Hillsbrad_Alterac_SM 39-40.lua
+Badlands_Uldaman 40-41.lua
+Uldaman 41-42.lua
+STV 42-44.lua
+Tanaris 44-45.lua
+Feralas 45-46.lua
+Hinterlands 46-47.lua
+Tanaris_ZF 47-49.lua
+Searing Gorge 49-50.lua
+Blasted Lands 50-51.lua
+Hinterlands 51-51.lua
+Maraudon 51-52.lua
+Azshara 52-52.lua
+Felwood_Feralas 52-53.lua
+Un'goro Crater_Felwood 53-54.lua
+Burning Steppes 55-55.lua
+Blackrock Depths 55-56.lua
+Western Plaguelands_Eastern Plaguelands 56-58.lua
+Winterspring 58-60.lua
