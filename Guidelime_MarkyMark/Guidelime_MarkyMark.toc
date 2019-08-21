@@ -49,3 +49,5 @@ Burning Steppes 55-55.lua
 Blackrock Depths 55-56.lua
 Western Plaguelands_Eastern Plaguelands 56-58.lua
 Winterspring 58-60.lua
+
+Elwynn Forest special 5-11.lua
