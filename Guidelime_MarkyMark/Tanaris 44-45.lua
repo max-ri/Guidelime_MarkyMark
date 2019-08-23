@@ -8,6 +8,7 @@ Turn in [QT1137 News for Fizzle]
 Turn in [QT1117 Rumors for Kravel], accept [QA1118 Back to Booty Bay]
 Turn in [QT1183 Goblin Sponsorship], accept [QA1186 The Eighteenth Pilot]
 Turn in [QT1186 The Eighteenth Pilot], accept [QA1187 Razzeric's Tweaking]
+Set your Hearth to [S Gadgetzan]
 Accept [QA2781 WANTED: Caliph Scorpidsting] & [QA2875 WANTED: Andre Firebeard]
 Accept [QA1690 Wastewander Justice]
 Accept [QA1707 Water Pouch Bounty]
@@ -27,12 +28,12 @@ While here, be sure to open the 'Pirate's Footlocker' that you loot - if you get
 Turn in [QT8366 Southsea Shakedown], [QT2875 WANTED: Andre Firebeard] & [QT2876 Ship Schedules] if you have it
 Turn in [QT2873 Stoley's Shipment], accept [QA2874 Deliver to MacKinley]
 Turn in [QT8365 Pirate Hats Ahoy!]
+Hearth to [H Gadgetzan]
 Turn in [QT1691 More Wastewander Justice] & [QT2781 WANTED: Caliph Scorpidsting]
 Turn in [QT1707 Water Pouch Bounty]
 Grind east of Gadgetzan to Sandsorrow Watch and use the Untapped Dousing Widget in the water at [G39,29Tanaris] for [QC992 Gadgetzan Water Survey]
 Be sure to finish the 'Roc Gizzard' portion of Rhapsody's Kocktail while here - there are a bunch around 49,35
 Turn in [QT992 Gadgetzan Water Survey], skip the [QS82 next part] for now
 Accept [QA3022 Handle with Care]
-If you got the Chicken Escort quest save it for later
 Fly to [F Feathermoon] Stronghold
 ]],'MarkyMark')

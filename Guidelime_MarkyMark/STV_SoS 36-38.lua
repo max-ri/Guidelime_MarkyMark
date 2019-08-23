@@ -11,7 +11,7 @@ Accept [QA213 Hostile Takeover] & [QA189 Bloodscalp Ears]
 Turn in [QT1115 The Rumormonger], accept [QA1116 Dream Dust in the Swamp]
 Turn in [QT1181 Goblin Sponsorship Part 3], accept [QA1182 Part 4] & accept [QA601 Water Elementals]
 Fly to [F Duskwood]
-Set your Hearth to [H Darkshire]
+Set your Hearth to [S Darkshire]
 Run south into STV
 Accept [QA215 Jungle Secrets]
 Accept [QA203 The Second Rebellion] & [QA204 Bad Medicine]
@@ -76,7 +76,7 @@ Fly to [F Stormwind]
 Check the Auction House for 'Lesser Bloodstone Ore' again, need 4 each
 Accept [QA543 The Perenolde Tiara]
 Turn in [QT1448 In Search of the Temple], accept [QA1449 To The Hinterlands]
-Set your Hearth to [H Stormwind]
+Set your Hearth to [S Stormwind]
 **YOU NEED TO BE QUICK FOR THE REST OF THIS PORTION**
 Accept [QA212 A Meal Served Cold] 
 Fly to [F Booty] Bay
@@ -92,7 +92,7 @@ Hearth to [H Stormwind]
 Turn in [QT212 A Meal Served Cold]
 [T Train] new abilities
 Fly to [F Wetlands]
-Set your Hearth to [H Menethil] Harbor
+Set your Hearth to [S Menethil] Harbor
 Take the boat to Darkshore
 Fly to [F Nijel]'s Point
 ]],'MarkyMark')

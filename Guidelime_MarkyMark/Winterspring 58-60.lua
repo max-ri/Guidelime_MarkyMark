@@ -56,7 +56,7 @@ Turn in [QT3962 It's Dangerous to Go Alone]
 Run to[OC] Silithus and grab the FP
 Turn in [QT8275 Taking Back Silithus] & [QT1124 Wasteland] if the chains were in the game
 **You can quest in Silithus at this point if the quests are implemented, although I recommend starting to grind pre-bis etc instead after the next few steps**
-Hearth to [H Wetlands]
+Hearth to [H Wetlands] if it's up, if not fly to [F Theramore] and take the boat
 Fly to [F Chillwind] Camp
 Turn in [QT5801 Fire Plume Forged], accept [QA5803 Araj's Scarab]
 Accept [QA211 Alas, Andorhal]

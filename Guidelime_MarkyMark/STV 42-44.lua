@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N42-44 STV]
 [NX44-45 Tanaris]
-Set your Hearth to [H Booty] Bay 
+Set your Hearth to [S Booty] Bay 
 Accept [QA600 Venture Company Mining] & [QA621 Zanzil's Secret]
 Turn in [QT603 Ansirem's Key], accept [QA610 'Pretty Boy' Duncan]
 Turn in [QT669 Sunken Treasure Part 4], accept [QA670 Part 5]

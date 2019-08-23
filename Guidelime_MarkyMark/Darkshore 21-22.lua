@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N21-22 Darkshore]
 [NX22-25 Ashenvale]
-Set your Hearth to [H Auberdine]
+Set your Hearth to [S Auberdine]
 Turn in [QT3765 The Corruption Abroad], skip the [QS1275 next part]
 Accept [QA948 Onu]
 Accept [QA729 The Absent Minded Prospector]

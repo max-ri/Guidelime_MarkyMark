@@ -43,7 +43,7 @@ Turn in [QT2982 The High Wilderness], accept [QA3445 The Sunken Temple]
 Turn in [QT4266 A Hero's Welcome], accept [QA4267 Rise of the Silithid]
 **ESCORT NEXT STEP**
 If you got the quest item for [QC2766 Find OOX-22/FE!], do [QC2767 Rescue OOX-22/FE!] (Escort) if you haven't already
-Set your Hearth to [H Feathermoon] Stronghold
+Set your Hearth to [S Feathermoon] Stronghold - ideally check for Elixir of Fortitude with guild here or have someone check AH, if none are available keep hearth in Gadgetzan
 Fly to [F Rut]'theran Village
 Turn in [QT3022 Handle with Care], accept [QA3661 Favored of Elune?]
 Turn in [QT2939 In Search of Knowledge]
@@ -53,8 +53,8 @@ Turn in [QT4267 Rise of the Silithid]
 Turn in [QT2972 Doling Justice Part 2]
 Turn in 60 Silk Cloth to the Cloth Quartermaster [G31,52Feralas]
 [V Buy] 2 'Elixir of Fortitude' per person if possible
-Hearth to [H Feathermoon] Stronghold
-Accept [QA3841 An Orphan Looking For a Home] **Only if you're able to get the second Elixir of Fortitude, if not then skip**
+Hearth to [H Feathermoon] Stronghold/Gadgetzan
+Accept [QA3841 An Orphan Looking For a Home] **Only if you're able to get the Elixir of Fortitudes, if not then skip**
 Fly to [F Gadgetzan]
 Turn in [QT2941 The Borrower], accept [QA2944 The Super Snapper FX]
 Turn in [QT2741 The Super Egg-o-Matic] (Hippogryph Egg)

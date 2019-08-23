@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N39-40 Hillsbrad/Alterac/SM]
 [NX40-41 Badlands/Uldaman]
-Set your Hearth to [H Southshore]
+Set your Hearth to [S Southshore]
 Turn in [QT1052 Down the Scarlet Path], accept [QA1053 In The Name of the Light]
 Accept [QA540 Preserving Knowledge]
 Turn in [QT525 Further Mysteries], accept [QA537 Dark Council] & [QA512 Noble Deaths]
@@ -30,7 +30,7 @@ Turn in [QT1450 Gryphon Master Talonaxe], accept [QA1451 Rhapsody Shindigger]
 Turn in [QT1451 Rhapsody Shindigger], accept [QA1452 Rhapsody's Kalimdor Kocktail]
 Fly to [F Ironforge]
 [T Train] new spells
-Set your Hearth to [H Ironforge]
+Set your Hearth to [S Ironforge]
 Turn in 60 Silk Cloth to the Cloth Quartermasters if you haven't already
 Accept [QA1360 Reclaimed Treasures]
 Turn in [QT554 Stormpike's Deciphering], accept [QA2398 The Lost Dwarves]

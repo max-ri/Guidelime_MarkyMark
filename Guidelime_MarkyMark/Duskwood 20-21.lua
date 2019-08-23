@@ -7,7 +7,7 @@ Guidelime.registerGuide([[
 Get the [P]FP
 Accept [QA163 Raven Hill], [QA165 The Hermit] and [QA164 Deliveries to Sven]
 Check the Engineering [V Vendor] and [V buy] Bronze Tubes
-Set your Hearth to [H Darkshire]
+Set your Hearth to [S Darkshire]
 Accept [QA245 Eight-Legged Menaces] [G45,67Duskwood]
 Turn in [QT163 Raven Hill], accept [QA5 Jitters' Growling Gut]
 Turn in [QT164 Deliveries to Sven] [G7.6,33.3Duskwood]
@@ -31,7 +31,7 @@ Turn in [QT240 Return to Jitters]
 Turn in [QT226 Wolves at our Heels]
 Accept [QA95 Sven's Revenge]
 Do [QC2359 Klaven's Tower][A Rogue] - Pickpocket the Malformed Defias Drone for the key [A Rogue]
-Do The Deadmines if you haven't already - Set your [H]Hearth in Westfall
+Do The Deadmines if you haven't already - Set your Hearth in [S Westfall]
 Fly to [F Stormwind]
 Accept [QA3765 The Corruption Abroad] if you weren't able to earlier [G21,56Duskwood]
 [V Buy] 1x Longsword from the Weapon [V Vendor] if needed [A Rogue]

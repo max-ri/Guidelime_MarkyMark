@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N16-18 Loch Modan]
 [NX18-20 Redridge]
-Set [H]Hearth in Thelsamar
+Set Hearth in [S Thelsamar]
 Accept [QA436 Ironband's Excavation]
 Do [QC237 In Defense of the King's Lands Part 2]
 Turn in [QT237 In Defense of the King's Lands Part 2]
@@ -58,6 +58,6 @@ Fly to [F Westfall]
 Accept [QA65 The Defias Brotherhood Part 1]
 Fly to [F Stormwind]
 Run to[OC] Goldshire
-Set your [H]Hearth in Goldshire
+Set your Hearth in [S Goldshire]
 Run to[OC] Redridge
 ]],'MarkyMark')

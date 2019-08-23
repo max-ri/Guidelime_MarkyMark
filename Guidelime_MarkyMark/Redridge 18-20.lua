@@ -30,7 +30,7 @@ Turn in [QT142 The Defias Brotherhood Part 5]
 Accept [QA155 The Defias Brotherhood Part 6] (Escort)
 Turn in [QT155 The Defias Brotherhood Part 6], accept [QA166 Part 7]
 Accept [QA214 Red Silk Bandanas]
-You can do The Deadmines now or after Redridge or Duskwood - Set your Hearth to [H Westfall] if you're doing it now
+You can do The Deadmines now or after Redridge or Duskwood - Set your Hearth to [S Westfall] if you're doing it now
 Fly to [F Redridge]
 Turn in [QT119 Return to Verner], accept [QA122 Underbelly Scales] & [QA124 A Baying of Gnolls] [G15,71Redridge Mountains]
 Turn in [QT121 Messenger to Stormwind Part 2], skip the [QS145 next part]

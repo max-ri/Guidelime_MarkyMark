@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N51-52 Maraudon]
 [NX52-52 Azshara]
-Set your Hearth to [H Nijel]'s Point
+Set your Hearth to [S Nijel]'s Point
 Accept [QA7065 Corruption of Earth and Seed]
 Accept [QA7041 Vyletongue Corruption]
 Accept [QA7028 Twisted Evils]
@@ -25,6 +25,6 @@ Do [QC7721 Fuel for the Zapping] & [QC7003 Zapped Giants]
 Turn in [QT7721 Fuel for the Zapping] & [QT7003 Zapped Giants]
 Turn in [QT2943 Return to Troyas], skip the [QS2879 next part] for now
 Fly to [F Ashenvale]
-Set your Hearth to [H Astranaar]
+Set your Hearth to [S Astranaar]
 Fly to [F Azshara]
 ]],'MarkyMark')

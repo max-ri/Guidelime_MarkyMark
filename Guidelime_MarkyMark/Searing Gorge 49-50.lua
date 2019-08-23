@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N49-50 Searing Gorge]
 [NX50-51 Blasted Lands]
-Set your Hearth to [H Ironforge]
+Set your Hearth to [S Ironforge]
 [T Train] new abilities
 Turn in [QT2977 Return to Ironforge], accept [QA2964 A Future Task]
 Turn in [QT2964 A Future Task]
@@ -48,7 +48,7 @@ Go back down into the excavations and turn in [QT3372 Release Them]
 Accept [QA3566 Rise, Obsidion!]
 Do [QC3566 Rise, Obsidion!]
 Do [QC3463 Set Them Ablaze!] [G66,62Searing Gorge]
-When passing by the Wooden Outhouse on the way back, turn in [QT4451 The Key to Freedom] if you got the drop, if not then skip
+Turn in [QT4451 The Key to Freedom] if you got the drop, if not then skip
 Turn in [QT3463 Set Them Ablaze!]
 Accept [QA3481 Trinkets...]
 Turn in [QT3481 Trinkets...]

@@ -99,7 +99,7 @@ Turn in [QT5022 Better Late Than Never Part 2], accept [QA5048 Good Natured Emma
 Turn in [QT5048 Good Natured Emma], accept [QA5050 Good Luck Charm]
 Turn in [QT6186 The Blightcaller Cometh], accept [QA6187 Order Must Be Restored]
 Fly to [F Menethil] Harbor, Wetlands
-Set your Hearth to [H Wetlands]
+Set your Hearth to [S Wetlands]
 Take the boat to Darkshore
 Fly to [F Everlook], Winterspring
 ]],'MarkyMark')

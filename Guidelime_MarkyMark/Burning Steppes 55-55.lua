@@ -43,12 +43,12 @@ Accept [QA6182 The First and the Last] - Req. level [XP 56], if not then skip
 Turn in [QT6182 The First and the Last], accept [QA6183 Honor the Dead]
 Turn in [QT6183 Honor the Dead], accept [QA6184 Flint Shadowmore]
 Take the tram to Ironforge
-Set your Hearth to [H Ironforge]
+Set your Hearth to [S Ironforge]
 Turn in [QT3701 The Smoldering Ruins of Thaurissan Part 2]
 Accept [QA4341 Kharan Mighthammer]
+Turn in [QT4128 Ragnar Thunderbrew], accept [QA4126 Hurley Blackbreath]
 [T Train] new abilities
 Accept [QA5090 A Call to Arms: The Plaguelands!]
-If you're doing BRD now, change your Hearth to [H Ironforge], if not then skip
 Do BRD, if not then skip to the next step
 Fly to [F Southshore]
 Run north into Western Plaguelands to Chillwind Camp

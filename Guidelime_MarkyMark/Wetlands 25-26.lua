@@ -15,7 +15,7 @@ Finish [QC484 Young Crocolisk Skins]
 Stop by 26,26 and [V buy] any gear that is an upgrade, also check the [V vendor] for Bronze Tubes
 Accept [QA305 In Search of the Excavation Team]
 Accept [QA279 Claws from the Deep]
-[S]Set Hearth to [H Menethil] Harbor
+Set Hearth to [S Menethil] Harbor
 [V Buy] a Flagon of Mead, accept [QA288 The Third Fleet] and turn [QT288 it] in
 Accept [QA289 The Cursed Crew]
 Turn in [QT942 The Absent Minded Prospector Part 4], accept [QA943 Part 5]

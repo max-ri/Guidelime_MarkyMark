@@ -44,7 +44,7 @@ Hinterlands 51-51.lua
 Maraudon 51-52.lua
 Azshara 52-52.lua
 Felwood_Feralas 52-53.lua
-Un'goro Crater_Felwood 53-54.lua
+Un'goro Crater_Felwood 53-55.lua
 Burning Steppes 55-55.lua
 Blackrock Depths 55-56.lua
 Western Plaguelands_Eastern Plaguelands 56-58.lua

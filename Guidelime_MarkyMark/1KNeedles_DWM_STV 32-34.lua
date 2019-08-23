@@ -25,7 +25,7 @@ Take the boat to Booty Bay
 Turn in [QT1040 Passage to Booty Bay], accept "[QA1041 The Caravan Road]
 Accept [QA575 Supply and Demand]
 Get [P the] flightpath
-Set your Hearth to [H Booty] Bay
+Set your Hearth to [S Booty] Bay
 Accept [QA201 Investigate the Camp], [QA616 The Haunted Isle] & [QA198 Supplies to Private Thorsen]
 Turn in [QT616 The Haunted Isle], accept [QA578 The Stone of the Tides]
 Fly to [F Darkshire]
@@ -56,7 +56,7 @@ Turn in [QT210 Krazek's Cookery] & [QT201 Investigate the Camp], skip the next p
 Turn in [QT578 The Stone of the Tides], skip the [QS601 next part] for now
 Turn in [QT575 Supply and Demand], skip the [QS577 next part] for now
 Take the boat to Ratchet
-Set your Hearth to [H Ratchet]
+Set your Hearth to [S Ratchet]
 Fly to [F Theramore] Isle
 Turn in [QT1219 The Orc Report], accept [QA1220 Captain Vimes]
 Turn in [QT1220 Captain Vimes]

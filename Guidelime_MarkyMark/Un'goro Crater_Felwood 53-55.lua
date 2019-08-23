@@ -2,7 +2,7 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*MarkyMark*'s 1-60 guide\\https://www.twitch.tv/darealmarkymark\\(best suited for a group of at least 2, if not 3+)]
 [GA Alliance]
-[N53-54 Un'goro Crater/Felwood]
+[N53-55 Un'goro Crater/Felwood]
 [NX55-55 Burning Steppes]
 Accept [QA4141 Muigin and Larion]
 Accept [QA3883 Alien Ecology]
@@ -63,7 +63,7 @@ Accept [QA4324 Yuka Screwspigot]
 Fly to [F Ratchet]
 Turn in [QT4502 Volcanic Activity]
 Fly to [F Astranaar]
-Set your Hearth to [H Astranaar]
+Set your Hearth to [S Astranaar]
 Fly to [F Everlook]
 Accept [QA6030 Duke Nicholas Zverenhoff] & [QA6028 The Everlook Report]
 Accept [QA5601 Sister Pamela]
@@ -102,9 +102,10 @@ Turn in [QT4513 A Little Slime Goes a Long Way Part 2]
 Accept [QA3701 The Smoldering Ruins of Thaurissan], talk to the NPC then turn [QT3701 it] in
 Accept [QA3701 The Smoldering Ruins of Thaurissan Part 2]
 Accept [QA8275 Taking Back Silithus] - **May not be in the game at launch**
-Accept [QA4126 Hurley Blackbreath] (Kharanos)
 Take the Tram to Stormwind
-Set your Hearth to [H Stormwind]
+Set your Hearth to [S Stormwind]
+Fly to [F Blasted] Lands
+Accept [QA4128 Ragnar Thunderbrew]
 Fly to [F Lakeshire], Redridge
 Run into[OC] the Burning Steppes
 ]],'MarkyMark')

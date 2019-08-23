@@ -62,7 +62,7 @@ Ensure [QC2500 Badlands Reagent Run] is done
 Hearth to [H Ironforge]
 Turn in [QT762 An Ambassador of Evil], accept [QA1139 The Lost Tablets of Will]
 Fly to [F Thelsamar]
-Set your Hearth to [H Thelsamar]
+Set your Hearth to [S Thelsamar]
 Turn in [QT2500 Badlands Reagent Run], accept [QA17 Uldaman Reagent Run]
 Run to[OC] Uldaman
 Outside of the instance, do [QC17 Uldaman Reagent Run], [QC709 Solution to Doom] & [QC1360 Reclaimed Treasures]

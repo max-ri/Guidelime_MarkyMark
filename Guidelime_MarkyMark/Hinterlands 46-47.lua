@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N46-47 Hinterlands]
 [NX47-49 Tanaris/ZF]
-Set your Hearth to [H Aerie] Peak
+Set your Hearth to [S Aerie] Peak
 Turn in [QT3843 The Newest Member of the Family], accept [QA4297 Food for Baby]
 Accept [QA2988 Witherbark Cages]
 Accept [QA2877 Skulk Rock Cleanup] & [QA2880 Troll Necklace Bounty]
