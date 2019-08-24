@@ -17,6 +17,9 @@ Click the 'Loose Dirt' next to Jarl's house, accept [QA1219 The Orc Report] [G55
 Turn in [QT1265 The Missing Diplomat Part 13], accept [QA1266 Part 14] [G45,25]
 Turn in [QT1266 The Missing Diplomat Part 14], accept [QA1324 Part 15]
 Turn in [QT1324 The Missing Diplomat Part 15]
+**ESCORT NEXT STEP**
+Accept [QA1222 Stinky's Escape] [G60,63]
+Do [QC1222 Stinky's Escape] (Escort)
 Once done, run to[OC] the northeast coast of Dustwallow and follow the coast north into The Barrens
 Do [QC1718 The Islander][A Warrior] [A Warrior]
 Run north to Ratchet, get the [P]FP
@@ -60,6 +63,7 @@ Set your Hearth to [S Ratchet]
 Fly to [F Theramore] Isle
 Turn in [QT1219 The Orc Report], accept [QA1220 Captain Vimes]
 Turn in [QT1220 Captain Vimes]
+Turn in [QT1222 Stinky's Escape]
 Turn in [QT1324 The Missing Diplomat Part 15] if you weren't able to before
 Run through[OC] Dustwallow to the Shady Rest Inn, accept [QA1253 The Black Shield], [QA1252Lieutenant Paval Reethe] & [QA1284Suspicious Hoofprints]
 Run south through The Barrens into 1k Needles
