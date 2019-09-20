@@ -3,7 +3,7 @@ Guidelime.registerGuide([[
 [D*MarkyMark*'s 1-60 guide\\https://www.twitch.tv/darealmarkymark\\(best suited for a group of at least 2, if not 3+)]
 [GA Alliance]
 [N52-53 Felwood/Feralas]
-[NX53-54 Un'goro Crater/Felwood]
+[NX53-55 Un'goro Crater/Felwood]
 Accept [QA4101 Cleansing Felwood]
 Accept [QA6131 Timbermaw Ally]
 Do [QC6131 Timbermaw Ally]
